@@ -1,0 +1,25 @@
+{
+  "name": "landing-page-layout",
+  "version": "1.0.0",
+  "description": "Landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommios/landing-page-layout.git"
+  },
+  "keywords": [
+    "landing"
+  ],
+  "author": "tommios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommios/landing-page-layout/issues"
+  },
+  "homepage": "https://github.com/tommios/landing-page-layout#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
