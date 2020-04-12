@@ -1,0 +1,5 @@
+## Landing page
+
+```
+    npm install
+```
