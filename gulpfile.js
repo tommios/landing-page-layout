@@ -40,21 +40,12 @@ gulp.task("styles:compile", function () {
     .pipe(gulp.dest("build/css"));
 });
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> settings-gulpfile
 /* ----  sprites  ---- */
 gulp.task("sprite", function (cb) {
   const spriteData = gulp.src("source/images/icons/*.png").pipe(
     spritesmith({
       imgName: "sprite.png",
-<<<<<<< HEAD
       imgPath: "../images/sprite.png",
-=======
-
->>>>>>> settings-gulpfile
       cssName: "sprite.scss",
     })
   );
